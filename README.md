@@ -1,5 +1,5 @@
 # SEW
-Split Excel Worksheet Script with GUI integrated
+Split Excel Worksheet Script with integrated GUI
 
 SCRIPT CONSIDERATIONS: 
 For now, this script works for .xlsx extension files and the key cell which will be used to filter its values and split the file must be A9, and the name of worksheet must be "Resumen por Distrito"
