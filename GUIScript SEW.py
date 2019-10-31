@@ -34,7 +34,7 @@ v_sourcefilenameext = StringVar()
 v_sourcedir.set("")
 v_sourcefile.set("")
 v_targetdir.set("")
-v_considerations = "SCRIPT CONSIDERATIONS: For now, this script works for .xlsx files extension and the key cell which will be used to filter its values and split the file must be A10, and the name of worksheet must be \"Resumen por Distrito\""
+v_considerations = "SCRIPT CONSIDERATIONS: For now, this script works for .xlsx files extension and the key cell which will be used to filter its values and split the file must be A9, and the name of worksheet must be \"Resumen por Distrito\""
 
 label_considerations=Message(frame_1, text=v_considerations, bg="white")
 label_considerations.config(anchor="w", width=550, font=("TkDefaultFont", 10, 'bold'))
