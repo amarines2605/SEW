@@ -1,11 +1,3 @@
-# To add a new cell, type '# %%'
-# To add a new markdown cell, type '# %% [markdown]'
-# %% [markdown]
-# # GUI for select source and target dir and file for the PMI proccess
-# %% [markdown]
-# ##### To select source directory file
-
-# %%
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
